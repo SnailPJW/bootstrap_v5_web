@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootstrap_v5_web", "bootstrap_v5_web\bootstrap_v5_web.csproj", "{0EF07046-8EFF-46D8-AB05-CD05D8338315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootstrap_v5_web.Tests", "bootstrap_v5_web.Tests\bootstrap_v5_web.Tests.csproj", "{494A77EB-879B-4DF1-A474-9A16182ABA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF07046-8EFF-46D8-AB05-CD05D8338315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF07046-8EFF-46D8-AB05-CD05D8338315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF07046-8EFF-46D8-AB05-CD05D8338315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF07046-8EFF-46D8-AB05-CD05D8338315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494A77EB-879B-4DF1-A474-9A16182ABA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494A77EB-879B-4DF1-A474-9A16182ABA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494A77EB-879B-4DF1-A474-9A16182ABA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494A77EB-879B-4DF1-A474-9A16182ABA82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111ABD2A-3E03-48F3-91B1-ADCEDE5B2758}
+	EndGlobalSection
+EndGlobal
