@@ -23,8 +23,10 @@ namespace bootstrap_v5_web
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/Bootstrap5/beta3/scss/bootstrap.min.css"
+                      //, "~/Content/site.css"
+                      ));
+            //BundleTable.EnableOptimizations = true;
         }
     }
 }
